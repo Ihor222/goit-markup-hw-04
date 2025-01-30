@@ -421,11 +421,13 @@ button:focus {
 }
 
 .footer-soc-list {
-  
+  gap: 16px;
+  display: flex;
 }
 
 
 .footer-soc-item {
+  width: 40px;
 }
 
 
@@ -437,14 +439,28 @@ button:focus {
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 100%;
+  background-color: #4d5ae5;
 }
 
 .footer-soc-container{
   margin-right: 120px;
 }
 
+.footer-soc-title{
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color:#FFFFFF;
+}
 
 .footer-soc-icon {
+}
+
+
+.footer-soc-link:hover,
+.footer-soc-link:focus {
+    background-color: #31d0aa;
 }
 
 .header-menu-link:hover,
