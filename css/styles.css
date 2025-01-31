@@ -413,8 +413,12 @@ button:focus {
   max-width: 264px;
   font-size: 16px;
   line-height: 1.5;
-  margin-bottom: 16px;
   letter-spacing: 0.02em;
+}
+
+.flex-container-footer{
+  display: flex;
+  align-items: baseline;
 }
 
 .header-logo-two {
@@ -424,6 +428,7 @@ button:focus {
 .footer-soc-list {
   gap: 16px;
   display: flex;
+  margin-bottom: 16px;
 }
 
 
