@@ -457,11 +457,11 @@ button:focus {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color:#FFFFFF;
+  margin-bottom: 16px;
 }
 
 .footer-soc-icon {
   fill: #f4f4fd;
-  margin-bottom: 16px;
 }
 
 
