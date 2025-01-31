@@ -389,7 +389,6 @@ button:focus {
 .footer {
   background-color: #2E2F42;
   padding: 100px 0;
-  
 }
 
 .footer-content{
@@ -401,7 +400,6 @@ button:focus {
   font-family: "Raleway", sans-serif;
   display: inline-block;
   font-size: 18px;
-  margin-bottom: 16px;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -428,7 +426,6 @@ button:focus {
 .footer-soc-list {
   gap: 16px;
   display: flex;
-  margin-bottom: 16px;
 }
 
 
@@ -464,6 +461,7 @@ button:focus {
 
 .footer-soc-icon {
   fill: #f4f4fd;
+  margin-bottom: 16px;
 }
 
 
