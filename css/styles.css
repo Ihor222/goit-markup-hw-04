@@ -232,7 +232,7 @@ button:focus {
   width: calc((100% - 72px) / 4);
 }
 
-.features-icons-container{
+.features-icon-container{
   display: flex;
   align-items: center;
   justify-content: center;
