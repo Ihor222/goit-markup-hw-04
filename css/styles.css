@@ -337,6 +337,11 @@ button:focus {
   justify-content: center;
 }
 
+.social-link:hover,
+.social-link:focus {
+    background-color: #404bbf;
+}
+
 .portfolio {
   padding-top: 120px;
   padding-bottom: 120px; 
