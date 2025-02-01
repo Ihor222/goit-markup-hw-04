@@ -508,6 +508,7 @@ button:focus {
 .footer-soc-container{
   display: flex;
   align-items: baseline;
+  flex-direction: column;
   gap: 16px;
 }
 
