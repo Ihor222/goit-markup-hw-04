@@ -68,7 +68,7 @@ align-items: center;
 
 
 .hero-title{
-  
+  padding-bottom: 48px;
 }
 
 .header-logo {
@@ -314,6 +314,7 @@ button:focus {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 
 .social-list{
@@ -460,6 +461,7 @@ button:focus {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  margin-bottom: 16px;
 }
 
 .footer-text {
@@ -493,7 +495,6 @@ button:focus {
 .footer-soc-link {
   width: 40px;
   height: 40px;
-  margin-bottom: 16px;
   background-color: #404BBF;
   border-radius: 50%;
   display: flex;
@@ -507,6 +508,7 @@ button:focus {
 .footer-soc-container{
   display: flex;
   align-items: baseline;
+  gap: 16px;
 }
 
 .footer-soc-title{
@@ -514,11 +516,11 @@ button:focus {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color:#FFFFFF;
-  margin-bottom: 16px;
 }
 
 .footer-soc-icon {
   fill: #f4f4fd;
+  margin-bottom: 16px;
 }
 
 
