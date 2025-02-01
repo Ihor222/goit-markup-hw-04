@@ -509,7 +509,6 @@ button:focus {
   display: flex;
   align-items: baseline;
   flex-direction: column;
-  gap: 16px;
 }
 
 .footer-soc-title{
